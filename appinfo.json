@@ -1,10 +1,10 @@
 {
-		"name": "A long name of the Application, shown in the App Store",
-		"short_name": "APP short name",
+		"name": "MediaWiki",
+		"short_name": "MediaWiki",
 		"version": "V.1.0",
-		"description": "Long description of the Application shown in Store, can be multiline",
-        "short_description": "Short description of the Application shown in Store",
+		"description": "MediaWiki is free and open-source wiki software.",
+        "short_description": "MediaWiki is free and open-source wiki software.",
 		"catalogue_url": "URL to biobankapps, if applicaple",
 		"application_url": "URL to App official gace",
-		"tags": ["Tag1", "Tag2"]
+		"tags": ["Wiki"]
 }
